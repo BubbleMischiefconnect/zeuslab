@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Matrix Sale",
+    "description": "Get 20% off on all protein cookies Matrix",
+    "discount_value": "20% OFF",
+    "expiry_date": "2025-04-30",
+    "promo_code": "April25",
+    "image_url": "https://i.ibb.co/20x5X3ph/matrix-cookie.jpg",
+    "brand": "Matrix",
+    "category": "Protein Cookies",
+    "is_special": true
+  },
+  {
+    "id": "2",
+    "title": "Amino Sale",
+    "description": "Get 17% off for BSN Amino X ",
+    "discount_value": "17% OFF",
+    "expiry_date": "2025-05-31",
+    "promo_code": null,
+    "image_url": "https://i.ibb.co/jsJRgsk/amino-x-1.jpg",
+    "brand": "BSN Amino",
+    "category": "Amino",
+    "is_special": false
+  }
+]
