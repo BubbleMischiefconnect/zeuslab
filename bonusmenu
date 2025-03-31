@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "bombbar protein bar",
+        "description": "60g",
+        "price": 150,
+        "imageURL": "https://i.ibb.co/4Rb6P1Hg/bombbar-protein-bar-60g.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Vitamin D-3",
+        "description": "5000 МЕ 120",
+        "price": 400,
+        "imageURL": "https://i.ibb.co/WvfjG46k/vetamind.jpg"
+    },
+        {
+        "id": "3",
+        "title": "Active BCAA",
+        "description": "375 g",
+        "price": 700,
+        "imageURL": "https://i.ibb.co/2YmVG0Pq/rule-1-active-bcaa-375g.jpg"
+    },
+            {
+        "id": "4",
+        "title": "R1 Clean Gainer",
+        "description": "2160 g",
+        "price": 1000,
+        "imageURL": "https://i.ibb.co/B5KjLX4f/rule-1-r1-clean-gainer-4350g.jpg"
+    }
+]
